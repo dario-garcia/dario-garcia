@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi! I'm Darío García
 
-<!--
-**dario-garcia/dario-garcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Darío García](https://img.shields.io/badge/-Dario%20Garcia-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/darío-garcía-martín)](https://www.linkedin.com/in/darío-garcía-martín)
 
-Here are some ideas to get you started:
+- Software engineering student :man_student:
+- Python Developer at Clever PPC 🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Knowledge 🧠
+
+*Used daily* 🚀
+- Java
+- Python
+- AWS Lambda
+- Git
+
+  
+*Frequently used* 🚙
+- Java
+- C
+- C#
+- MySQL
+- MongoDB
+
+*Slightly used* 🚲
+- Unity
+- C++
