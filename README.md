@@ -15,7 +15,6 @@
 
   
 *Frequently used* 🚙
-- Java
 - C
 - C#
 - MySQL
